@@ -1,0 +1,20 @@
+0-0-Across-public-(Most stores are open to this)-1
+0-0-Down-profit-(Every buisness wants to make this)-1
+2-0-Down-borrow-(You may do this for money)-2
+5-0-Down-company-(start this to go into buisness)-3
+7-0-Across-job-(employees want to keep this)-4
+9-0-Down-buy-(__ wholesale; sell retail)-5
+6-2-Across-money-(the root of all evil)-6
+4-4-Across-balance-(___ your checkbook)-7
+7-4-Down-account-(a new customer will open this)-8
+9-4-Down-customer-(always right)-9
+12-5-Down-expenses-(can be deduced on tax forms)-10
+7-6-Across-cash-(no check or charge only __)-11
+0-7-Across-deed-(if you own real estate, you hold this)-12
+0-7-Down-debt-(to owe)-12
+5-8-Across-coupon-(discount)-13
+5-8-Down-cargo-(a plane that ships goods)-13
+0-9-Across-bill-(if you owe you may recive one)-14
+3-9-Down-loan-(borrowed capital)-15
+1-11-Across-charge-(to pay later)-16
+8-11-Across-price
